@@ -1,0 +1,20 @@
+{
+  "files": {
+    "django_project/settings.py": [
+      {
+        "id": "a5734bc8-d2f0-4b93-84c5-b32d3547cf72",
+        "line": 2,
+        "version": 197,
+        "index": 10
+      }
+    ],
+    "templates/index.html": [
+      {
+        "id": "5fb9e3a0-1eac-4009-9b65-ca546582bacc",
+        "line": 1,
+        "version": 742,
+        "index": 0
+      }
+    ]
+  }
+}
